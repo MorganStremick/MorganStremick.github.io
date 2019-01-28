@@ -7,7 +7,6 @@ permalink: projects/meandering-monarchs
 date: 2019-01-27
 labels:
   - Javascript
-  - GitHub
   - Latex
 summary: An exploration of the Meandering Monarchs problem, including solutions in specific cases and a simulation.
 ---
