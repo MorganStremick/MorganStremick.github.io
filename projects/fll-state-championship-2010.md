@@ -3,7 +3,7 @@ layout: project
 type: project
 image:
 title: Meandering Monarchs
-permalink: projects/meandering-monarchs
+permalink: projects/fll-state-championship-2010
 date: 2018-09-07
 labels:
 summary: I participated in the First Lego League 2010 state championship.
