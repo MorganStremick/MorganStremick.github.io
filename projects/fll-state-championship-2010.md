@@ -2,7 +2,7 @@
 layout: project
 type: project
 image:
-title: Meandering Monarchs
+title: First Lego League State Championship 2010
 permalink: projects/fll-state-championship-2010
 date: 2018-09-07
 labels:
