@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/checkerboard.png
 title: Meandering Monarchs
 permalink: projects/meandering-monarchs
 date: 2019-01-27
