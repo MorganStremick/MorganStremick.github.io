@@ -1,11 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Coding Standards: The Cure Definitive Cure for Hiccups
+title: Coding Standards: The Definitive Cure for Hiccups
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-16
 labels:
-  - Coding Standards
+  - Codings Standards
 ---
 
 Coding standards are the definitive cure for hiccups. No matter what anyone else tells you, gargling water is not going to work. In fact, don’t do that anywhere near your computer. It’s dangerous. I’ve gone through multiple keyboards. Ahem, to reiterate, coding standards cure hiccups in software development. They work mainly by catching bugs and improving readability. For these reasons, coding standards are essential in large, multi-person projects, where the threat of a hiccup epidemic is most severe.
