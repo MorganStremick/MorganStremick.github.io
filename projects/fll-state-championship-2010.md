@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/body-forward-logo.png
 title: First Lego League State Championship 2010
 permalink: projects/fll-state-championship-2010
 date: 2018-09-07

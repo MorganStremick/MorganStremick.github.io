@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:
+image: images/woodenTile.png
 title: Buffon's Regular Polygons
 permalink: projects/buffons-regular-polygon
 date: 2018-09-04
