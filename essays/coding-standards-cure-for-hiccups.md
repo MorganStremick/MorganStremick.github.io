@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: How the Cosmos Learns to Love Itself
+title: Coding Standards: Cure for Hiccups
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-30
+date: 2019-02-06
 labels:
-  - Software Engineering
-  - Learning
+  - Coding Standards
 ---
 
 The universe is amazing. It’s awe inspiring. It’s every synonym combined and more. In every nook and cranny, in every hill and valley, from every star to swirling galaxy, the universe is full of puzzles and mysteries, beauty and intricacies. It’s a place of wonder, where everything is “to be discovered,” and there is so much to adore.
