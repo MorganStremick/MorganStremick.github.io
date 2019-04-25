@@ -8,7 +8,7 @@ labels:
   - design patterns
 ---
 
-##Design Patterns are Like Bones
+## Design Patterns are Like Bones
 Design patterns are versatile, high-level solutions to certain problems that can be used across a variety of circumstances. Like the arrangement of the bones in the mammalian hand which underlie such various forms as the the wings of a bat, the flippers of a whale, or the precision instruments that I am currently using to type out this very sentence, design patterns allow for many forms and functions, that operate in similar ways under the surface. Some of the advantages of design patterns include readability and shorter development times, and although I am not familiar with most of them, I can recognize that there is utility in the few that I already do.
 	
 ## Design Patterns Give you Wings
