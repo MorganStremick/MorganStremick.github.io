@@ -11,6 +11,9 @@ labels:
 summary: A web app designed to facilitate the formation of study groups
 ---
 
+![](images/m3_landing1.png)
+![](images/m3_landing2.png)
+
 ## Vision
 
 Waggle’s stated purpose is to facilitate the formation of study groups, but the ultimate goal of our web app is to foster a sense of community built around a common love of learning, cooperation, and also a little friendly competition. We wanted to encourage students to work in groups because we believed, and still do believe, that one of the best ways to learn difficult concepts is by putting abstract ideas into words and hearing from multiple perspectives. To that end, our goal was not only to facilitate the formation of study groups but make it fun as well through sleek design and engaging game mechanics. In order to inspire a sense of community and cooperation, we decided to theme our project around honey bees. If you’re confused about the name, Waggle, it’s a reference to the waggle dance that honey bees use to teach each other where to find food.
