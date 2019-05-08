@@ -11,8 +11,10 @@ labels:
 summary: A web app designed to facilitate the formation of study groups
 ---
 
-![](images/m3_landing1.png)
-![](images/m3_landing2.png)
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/m3_landing1.png">
+  <img class="ui image" src="../images/m3_landing2.png">
+</div>
 
 ## Vision
 
